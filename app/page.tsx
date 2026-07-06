@@ -18,6 +18,11 @@ export default function HomePage() {
               <Link className="button button-red" href="/products">Explore solutions <span>→</span></Link>
               <Link className="button button-outline" href="/contact">Talk to an expert <span>↗</span></Link>
             </div>
+            <div className="home-trust">
+              <span><Icon name="shield" /> ISO-aligned security</span>
+              <span><Icon name="fingerprint" /> Encrypted &amp; auditable</span>
+              <span><Icon name="scale" /> e-Governance ready</span>
+            </div>
             <div className="home-proof">
               <div><strong>Since 1997</strong><span>Enterprise technology partner</span></div>
               <div><strong>30M+ pages</strong><span>Digitized every year</span></div>
